@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FileCenter</string>
+    <string name="create_file">create file</string>
+    <string name="create_folder">create folder</string>
+    <string name="create_hint">create_hint</string>
+    <string name="radio_currentpath">radio currentpath</string>
+    <string name="radio_wholepath">radio wholepath</string>
+    <string name="edit_search_hint">edit search hint</string>
+    <string name="button_refer">button refer</string>
+    <string name="button_back">button back</string>
+</resources>
